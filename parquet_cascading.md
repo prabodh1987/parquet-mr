@@ -25,7 +25,7 @@ This document details the support of reading and writing parquet format from cas
 1. Read and Write
 ==============
 
-In [parquet-cascading](http://https://github.com/Parquet/parquet-mr/tree/master/parquet-cascading) sub-module, we provide support for reading/writing records of various data structures including Thrift(TBase), Scrooge and Tuples. Please refer to following sections for each data structures.
+In [parquet-cascading](https://github.com/Parquet/parquet-mr/tree/master/parquet-cascading) sub-module, we provide support for reading/writing records of various data structures including Thrift(TBase), Scrooge and Tuples. Please refer to following sections for each data structures.
 
 1.1 Thrift/TBase
 ------------
